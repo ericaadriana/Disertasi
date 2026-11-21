@@ -29,6 +29,9 @@ Alasan: skala sudah divalidasi khusus untuk influencer media sosial; dimensi Exp
 - [ ] Antisipasi tumpang tindih PPA-Expertise dengan Trust: bedakan redaksi butir, uji HTMT (< 0,85), dan tulis argumen batas konseptualnya
 - [ ] Tabel 3.1 mengikuti butir PASMI di kuesioner Bagian E.2
 
+### Prinsip pemilihan skala (ditetapkan 21 November 2026)
+Gunakan skala **sebagaimana dipublikasikan di penelitian terdahulu**, tanpa membuang atau menggabungkan dimensi atas usulan sendiri. Adaptasi hanya pada redaksi konteks (misalnya "vendor" → "kreator ini") dan penerjemahan.
+
 ---
 
 ## Prioritas 1: Kunci keputusan pengukuran (PPA dan Trust)
