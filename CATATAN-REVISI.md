@@ -7,6 +7,19 @@ Urutan berdasarkan urgensi dan efektivitas: kerjakan dari atas ke bawah.
 
 ---
 
+## Keputusan yang sudah diambil
+
+### Judul disertasi (dipilih 21 November 2026)
+**Pengaruh *Social Media Marketing Activities* terhadap *Purchase Intention* Produk Digital Milik Kreator melalui *Perceived Personal Authenticity* dan *Trust in Creator* dengan *Parasocial Interaction* sebagai Variabel Moderasi**
+*(Studi pada Generasi Z Pengikut Kreator Edukator Segmen Self-Development di Indonesia)*
+
+- [ ] Cantumkan judul di sampul proposal (saat ini sampul belum memuat judul)
+- [ ] Cetak miring semua istilah bahasa Inggris di judul (PUEBI)
+- [ ] Cek kesesuaian format judul dengan pedoman disertasi FEB UB / konfirmasi pembimbing
+- [ ] Pastikan nama variabel di seluruh bab konsisten dengan judul (SMMA, PPA, Trust in Creator, PSI, Purchase Intention)
+
+---
+
 ## Prioritas 1: Kunci keputusan pengukuran (PPA dan Trust)
 Urgensi: sangat tinggi · Dampak: sangat tinggi · Menentukan semua bagian lain
 
