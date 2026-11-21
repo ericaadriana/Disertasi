@@ -18,6 +18,17 @@ Urutan berdasarkan urgensi dan efektivitas: kerjakan dari atas ke bawah.
 - [ ] Cek kesesuaian format judul dengan pedoman disertasi FEB UB / konfirmasi pembimbing
 - [ ] Pastikan nama variabel di seluruh bab konsisten dengan judul (SMMA, PPA, Trust in Creator, PSI, Purchase Intention)
 
+### Skala PPA (dipilih 21 November 2026)
+**PASMI (Lee & Eastin, 2021), lengkap 5 dimensi:** Sincerity, Truthful Endorsement, Visibility, Expertise, Uniqueness.
+Alasan: skala sudah divalidasi khusus untuk influencer media sosial; dimensi Expertise dipertahankan agar validitas skala asli terjaga. Ini juga sejalan dengan rumusan masalah ("mekanisme konversi *expertise* menjadi *purchase intention*").
+
+- [ ] Ganti definisi PPA di 2.1.3.2 dan 3.3.2 ke Lee & Eastin (2021); Moulard et al. (2015) cukup sebagai latar konsep
+- [ ] Hapus 4 dimensi sintesis Moulard (Ketulusan, Konsistensi, Orisinalitas, Motivasi intrinsik) dari teks dan Tabel 3.1
+- [ ] Spesifikasikan PPA sebagai konstruk hierarkis (5 dimensi orde pertama), estimasi two-stage seperti SMMA
+- [ ] Sesuaikan interaksi PSI × PPA memakai skor laten PPA orde kedua
+- [ ] Antisipasi tumpang tindih PPA-Expertise dengan Trust: bedakan redaksi butir, uji HTMT (< 0,85), dan tulis argumen batas konseptualnya
+- [ ] Tabel 3.1 mengikuti butir PASMI di kuesioner Bagian E.2
+
 ---
 
 ## Prioritas 1: Kunci keputusan pengukuran (PPA dan Trust)
@@ -34,7 +45,7 @@ Urgensi: sangat tinggi · Dampak: sangat tinggi · Menentukan semua bagian lain
 - Kata "tulus" muncul di butir PPA dan butir Trust, sehingga validitas diskriminan berisiko gagal.
 - Dimensi Expertise (jika PASMI dipakai) tumpang tindih dengan ability pada Trust.
 
-- [ ] Putuskan skala PPA (Moulard atau PASMI) dan dimensinya
+- [x] Putuskan skala PPA (Moulard atau PASMI) dan dimensinya → PASMI 5 dimensi (lihat "Keputusan yang sudah diambil")
 - [ ] Putuskan skala Trust (tetap Ohanian dengan justifikasi, atau ganti ke skala berbasis ABI)
 - [ ] Revisi 2.1.3.2, 2.1.3.3, 3.3.2, 3.3.3 agar sesuai keputusan
 
