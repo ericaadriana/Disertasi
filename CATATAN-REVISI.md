@@ -47,6 +47,14 @@ Alasan: skala sudah divalidasi khusus untuk influencer media sosial; dimensi Exp
 - **Tanveer et al. (2026)**, *Social Sciences & Humanities Open*: elemen SMM (termasuk customization dari Kim & Ko) → PI pada Gen Z, trust sebagai moderator (brand trust). Pembanding di Bab 2.
 - **Lei & Liang (2027)**, *International Journal of Medical Informatics*: logika trust → risiko → niat (pendukung H3). Konteks jauh; opsional.
 
+### Dampak keputusan skala ke Bab 1 (perlu direvisi)
+- [ ] **Bagian 2 (Jembatan Menuju Ekonomi Kreator), paragraf "Argumen inti model ini":** pemetaan dimensi Moulard → ABI (sincerity & consistency → integrity; originality & rarity → ability; intrinsic motivation → benevolence) diganti pemetaan dimensi PASMI → dimensi McKnight. Pemetaan baru harus didukung sumber, bukan asumsi.
+- [ ] **Bagian 7, paragraf definisi PPA:** definisi kerja dari Moulard et al. (2015) diganti/ditambah Lee & Eastin (2021); kalimat "Disertasi ini mengusulkan empat dimensi PPA…" diganti 5 dimensi PASMI; rujukan "diuji pada Bab 3" disesuaikan ke Bab Metode.
+- [ ] **Bagian 7, paragraf "Autentisitas membangun trust melalui tiga jalur":** jalur "konsistensi → kredibilitas → trust" tidak lagi sesuai karena *consistency* bukan dimensi PASMI; selaraskan dengan dimensi PASMI (Sincerity, Truthful Endorsement, Visibility, Expertise, Uniqueness).
+- [ ] **Bagian 8 (Kebaruan), "Headline kedua":** jelaskan beda Expertise pada PPA (keahlian yang tampak autentik di konten) dan Competence pada Trust (keyakinan kreator mampu memberi hasil yang dijanjikan), karena keduanya kini ada di model.
+- [ ] Bagian 8, urgensi ketiga dan kebaruan: Moulard et al. (2015) tetap sebagai fondasi konsep *human brand authenticity*; tambahkan Lee & Eastin (2021) sebagai skala yang dipakai.
+- Tidak perlu diubah: Manfaat Teoretis pertama (ABI tetap konsisten dengan McKnight), rumusan masalah ("konversi *expertise*"), kutipan Ohanian (1990) sebagai pembanding kredibilitas sumber.
+
 ### Prinsip pemilihan skala (ditetapkan 21 November 2026)
 Gunakan skala **sebagaimana dipublikasikan di penelitian terdahulu**, tanpa membuang atau menggabungkan dimensi atas usulan sendiri. Adaptasi hanya pada redaksi konteks (misalnya "vendor" → "kreator ini") dan penerjemahan.
 
