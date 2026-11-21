@@ -29,6 +29,24 @@ Alasan: skala sudah divalidasi khusus untuk influencer media sosial; dimensi Exp
 - [ ] Antisipasi tumpang tindih PPA-Expertise dengan Trust: bedakan redaksi butir, uji HTMT (< 0,85), dan tulis argumen batas konseptualnya
 - [ ] Tabel 3.1 mengikuti butir PASMI di kuesioner Bagian E.2
 
+### Skala Trust in Creator (dipilih 21 November 2026)
+**McKnight, Choudhury, & Kacmar (2002), *Information Systems Research*, 13(3), 334–359: Trusting Beliefs, lengkap 11 butir.**
+- Competence (TBC 1–4), Benevolence (TBB 1–3), Integrity (TBI 1–4)
+- Alasan: dimensinya persis ABI dari Mayer et al. (1995), sehingga definisi di 2.1.3.3 dan Manfaat Teoretis pertama tetap konsisten.
+- File sumber: `McKnight-2002 Trust.pdf` (Lampiran "Measures")
+
+- [ ] Ganti sumber pengukuran Trust di 3.3.3 dari Ohanian (1990) ke McKnight et al. (2002)
+- [ ] Spesifikasikan Trust sebagai konstruk hierarkis (3 dimensi orde pertama), estimasi two-stage
+- [ ] Susun 11 butir di Tabel 3.1 dan kuesioner (adaptasi redaksi "vendor" → "kreator ini"), lalu back-translation
+- [ ] Rencanakan uji validitas diskriminan ketat PPA vs Trust (HTMT), terutama PASMI-Expertise vs TBC dan PASMI-Sincerity vs TBI-4
+- [ ] Tulis argumen batas konseptual PPA vs Trust di 2.1.3 (PPA = kesetiaan pada *true self*; Trust = keyakinan atas kemampuan, niat baik, integritas)
+- [ ] Ohanian (1990) cukup dikutip sebagai pembanding, bukan sumber skala
+
+### Rujukan pendukung dari jurnal yang diunggah
+- **Basya & Murniati (2026)**, *Procedia Computer Science*: trust memediasi pengaruh aktivitas media sosial (engagement) di Indonesia; perspektif sisi penjual. Pakai di Bab 2.2.6 dan argumen kebaruan Bab 1 (sisi penjual vs sisi pembeli). Bukan sumber skala.
+- **Tanveer et al. (2026)**, *Social Sciences & Humanities Open*: elemen SMM (termasuk customization dari Kim & Ko) → PI pada Gen Z, trust sebagai moderator (brand trust). Pembanding di Bab 2.
+- **Lei & Liang (2027)**, *International Journal of Medical Informatics*: logika trust → risiko → niat (pendukung H3). Konteks jauh; opsional.
+
 ### Prinsip pemilihan skala (ditetapkan 21 November 2026)
 Gunakan skala **sebagaimana dipublikasikan di penelitian terdahulu**, tanpa membuang atau menggabungkan dimensi atas usulan sendiri. Adaptasi hanya pada redaksi konteks (misalnya "vendor" → "kreator ini") dan penerjemahan.
 
@@ -49,7 +67,7 @@ Urgensi: sangat tinggi · Dampak: sangat tinggi · Menentukan semua bagian lain
 - Dimensi Expertise (jika PASMI dipakai) tumpang tindih dengan ability pada Trust.
 
 - [x] Putuskan skala PPA (Moulard atau PASMI) dan dimensinya → PASMI 5 dimensi (lihat "Keputusan yang sudah diambil")
-- [ ] Putuskan skala Trust (tetap Ohanian dengan justifikasi, atau ganti ke skala berbasis ABI)
+- [x] Putuskan skala Trust (tetap Ohanian dengan justifikasi, atau ganti ke skala berbasis ABI) → McKnight et al. (2002) lengkap
 - [ ] Revisi 2.1.3.2, 2.1.3.3, 3.3.2, 3.3.3 agar sesuai keputusan
 
 ## Prioritas 2: Tulis Bab Metode Penelitian (belum ada)
